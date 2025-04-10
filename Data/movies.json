@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Inception",
+        "releaseYear": 2010,
+        "duration": 148
+    },
+    {
+        "id": 2,
+        "name": "The Dark Knight",
+        "releaseYear": 2008,
+        "duration": 152
+    },
+    {
+        "id": 3,
+        "name": "Interstellar",
+        "releaseYear": 2014,
+        "duration": 169
+    },
+    {
+        "id": 4,
+        "name": "The Matrix",
+        "releaseYear": 1999,
+        "duration": 136
+    },
+    {
+        "id": 5,
+        "name": "Parasite",
+        "releaseYear": 2019,
+        "duration": 132
+    },
+    {
+        "id": 6,
+        "name": "The Shawshank Redemption",
+        "releaseYear": 1994,
+        "duration": 142
+    },
+    {
+        "id": 7,
+        "name": "Pulp Fiction",
+        "releaseYear": 1994,
+        "duration": 154
+    },
+    {
+        "id": 8,
+        "name": "Forrest Gump",
+        "releaseYear": 1994,
+        "duration": 142
+    },
+    {
+        "id": 9,
+        "name": "The Godfather",
+        "releaseYear": 1972,
+        "duration": 175
+    },
+    {
+        "id": 10,
+        "name": "Gladiator",
+        "releaseYear": 2000, 
+        "duration": 155
+    }
+]
